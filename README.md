@@ -71,9 +71,6 @@ My expertise spans **distributed systems**, **Kubernetes**, **chaos engineering*
   <a href="https://linkedin.com/in/XploY04">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/XploY04">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://twitter.com/XploY04">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
